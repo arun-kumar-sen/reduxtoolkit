@@ -1,0 +1,7 @@
+1- Install react router dom
+2- Install redux toolkit
+3- Install react redux
+
+add a store
+
+and use create slice of redux toolkit
